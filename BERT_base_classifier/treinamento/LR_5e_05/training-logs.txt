@@ -1,0 +1,268 @@
+
+=================== Fold 1 / 10 ======================
+New best model found at fold 1 with F1: 0.4617233256939139
+
+Epoch 1/3 took: 0:07:59
+New best model found at fold 1 with F1: 0.5356723750106103
+
+Epoch 2/3 took: 0:08:03
+New best model found at fold 1 with F1: 0.5386803964009846
+
+Epoch 3/3 took: 0:08:01
+================================
+
+Training performance
+Accuracy: 74.71%
+F1 Score: 0.72
+Loss: 0.74
+================================
+
+Validation performance
+Accuracy: 56.25
+F1 Score: 0.54
+Loss: 1.14
+
+Fold 1 / 10 took: 0:24:02
+
+=================== Fold 2 / 10 ======================
+New best model found at fold 2 with F1: 0.8613585760644584
+
+Epoch 1/3 took: 0:08:01
+New best model found at fold 2 with F1: 0.8585593328240387
+
+Epoch 2/3 took: 0:08:00
+New best model found at fold 2 with F1: 0.8591694049414639
+
+Epoch 3/3 took: 0:08:00
+================================
+
+Training performance
+Accuracy: 81.91%
+F1 Score: 0.80
+Loss: 0.62
+================================
+
+Validation performance
+Accuracy: 87.13
+F1 Score: 0.86
+Loss: 0.46
+
+Fold 2 / 10 took: 0:24:01
+
+=================== Fold 3 / 10 ======================
+New best model found at fold 3 with F1: 0.8576410109498342
+
+Epoch 1/3 took: 0:08:00
+New best model found at fold 3 with F1: 0.8574792038027332
+
+Epoch 2/3 took: 0:08:00
+New best model found at fold 3 with F1: 0.8520350768512535
+
+Epoch 3/3 took: 0:08:01
+================================
+
+Training performance
+Accuracy: 81.08%
+F1 Score: 0.79
+Loss: 0.62
+================================
+
+Validation performance
+Accuracy: 86.76
+F1 Score: 0.85
+Loss: 0.45
+
+Fold 3 / 10 took: 0:24:00
+
+=================== Fold 4 / 10 ======================
+New best model found at fold 4 with F1: 0.8727079089211442
+
+Epoch 1/3 took: 0:08:01
+New best model found at fold 4 with F1: 0.8752050441388677
+
+Epoch 2/3 took: 0:08:02
+New best model found at fold 4 with F1: 0.8730912061794415
+
+Epoch 3/3 took: 0:08:02
+================================
+
+Training performance
+Accuracy: 81.23%
+F1 Score: 0.79
+Loss: 0.62
+================================
+
+Validation performance
+Accuracy: 88.60
+F1 Score: 0.87
+Loss: 0.44
+
+Fold 4 / 10 took: 0:24:05
+
+=================== Fold 5 / 10 ======================
+New best model found at fold 5 with F1: 0.8305756947301064
+
+Epoch 1/3 took: 0:08:02
+New best model found at fold 5 with F1: 0.8332123962638667
+
+Epoch 2/3 took: 0:08:02
+New best model found at fold 5 with F1: 0.8083158263305321
+
+Epoch 3/3 took: 0:08:02
+================================
+
+Training performance
+Accuracy: 81.61%
+F1 Score: 0.80
+Loss: 0.61
+================================
+
+Validation performance
+Accuracy: 82.35
+F1 Score: 0.81
+Loss: 0.63
+
+Fold 5 / 10 took: 0:24:06
+
+=================== Fold 6 / 10 ======================
+New best model found at fold 6 with F1: 0.8238182773109244
+
+Epoch 1/3 took: 0:08:03
+New best model found at fold 6 with F1: 0.8500862087259144
+
+Epoch 2/3 took: 0:08:01
+New best model found at fold 6 with F1: 0.8532504668534078
+
+Epoch 3/3 took: 0:08:01
+================================
+
+Training performance
+Accuracy: 81.86%
+F1 Score: 0.80
+Loss: 0.61
+================================
+
+Validation performance
+Accuracy: 86.03
+F1 Score: 0.85
+Loss: 0.53
+
+Fold 6 / 10 took: 0:24:06
+
+=================== Fold 7 / 10 ======================
+New best model found at fold 7 with F1: 0.8341829738888563
+
+Epoch 1/3 took: 0:08:02
+New best model found at fold 7 with F1: 0.8332394117320587
+
+Epoch 2/3 took: 0:08:01
+New best model found at fold 7 with F1: 0.8340678316781258
+
+Epoch 3/3 took: 0:08:02
+================================
+
+Training performance
+Accuracy: 81.40%
+F1 Score: 0.79
+Loss: 0.61
+================================
+
+Validation performance
+Accuracy: 84.56
+F1 Score: 0.83
+Loss: 0.55
+
+Fold 7 / 10 took: 0:24:06
+
+=================== Fold 8 / 10 ======================
+New best model found at fold 8 with F1: 0.8124198717948719
+
+Epoch 1/3 took: 0:08:02
+New best model found at fold 8 with F1: 0.8080890310669719
+
+Epoch 2/3 took: 0:08:02
+New best model found at fold 8 with F1: 0.8071916645446056
+
+Epoch 3/3 took: 0:08:03
+================================
+
+Training performance
+Accuracy: 81.73%
+F1 Score: 0.80
+Loss: 0.61
+================================
+
+Validation performance
+Accuracy: 80.88
+F1 Score: 0.81
+Loss: 0.57
+
+Fold 8 / 10 took: 0:24:07
+
+=================== Fold 9 / 10 ======================
+New best model found at fold 9 with F1: 0.8260963097360156
+
+Epoch 1/3 took: 0:08:00
+New best model found at fold 9 with F1: 0.8236074179088885
+
+Epoch 2/3 took: 0:08:00
+New best model found at fold 9 with F1: 0.7882066666993138
+
+Epoch 3/3 took: 0:08:01
+================================
+
+Training performance
+Accuracy: 81.40%
+F1 Score: 0.80
+Loss: 0.61
+================================
+
+Validation performance
+Accuracy: 81.25
+F1 Score: 0.79
+Loss: 0.56
+
+Fold 9 / 10 took: 0:24:02
+
+=================== Fold 10 / 10 ======================
+New best model found at fold 10 with F1: 0.8445481601731601
+
+Epoch 1/3 took: 0:08:02
+New best model found at fold 10 with F1: 0.8448383520074698
+
+Epoch 2/3 took: 0:08:00
+New best model found at fold 10 with F1: 0.8208245798319328
+
+Epoch 3/3 took: 0:08:02
+================================
+
+Training performance
+Accuracy: 81.23%
+F1 Score: 0.79
+Loss: 0.62
+================================
+
+Validation performance
+Accuracy: 83.46
+F1 Score: 0.82
+Loss: 0.51
+
+Fold 10 / 10 took: 0:24:04
+overall_train_loss_values: [0.7363750732263993, 0.6178420261296141, 0.6219470623045861, 0.6163872212271228, 0.6135148616339451, 0.6103401384923769, 0.6095413957850192, 0.6051967725107901, 0.6095230828061151, 0.6153913336155008]
+overall_val_loss_values: [1.13567486887469, 0.46084275491097393, 0.45257360970272736, 0.4442426365088014, 0.6301940872388727, 0.528165880809812, 0.5494116505279261, 0.5748784918995464, 0.560108540689244, 0.5050150769598344]
+overall_train_accuracy_values: [74.70735785953177, 81.91192865105909, 81.07580824972129, 81.22909698996655, 81.60535117056857, 81.8561872909699, 81.39632107023411, 81.73076923076923, 81.39632107023411, 81.22909698996655]
+overall_val_accuracy_values: [56.25, 87.13235294117646, 86.76470588235294, 88.6029411764706, 82.3529411764706, 86.02941176470588, 84.55882352941177, 80.88235294117646, 81.25, 83.45588235294117]
+overall_train_f1_values: [0.7200031341753754, 0.7983559918342531, 0.7919740678310911, 0.7897719871173048, 0.7951173942185649, 0.7992480113717574, 0.7917897946535071, 0.7986679221001974, 0.7953174589253189, 0.7892898512672762]
+overall_val_f1_values: [0.5386803964009846, 0.8591694049414639, 0.8520350768512535, 0.8730912061794415, 0.8083158263305321, 0.8532504668534078, 0.8340678316781258, 0.8071916645446056, 0.7882066666993138, 0.8208245798319328]
+
+================================ Training complete! ================================
+Overall summary:
+Average Training Loss: 0.63
+Average Validation Loss: 0.58
+Average Training Accuracy: 80.81
+Average Validation Accuracy: 81.73
+Average Training F1 Score: 0.79
+Average Validation F1 Score: 0.80
+All folds took: 4:00:40
+Training complete!
+Best model was from fold with F1 score: inf
